@@ -161,8 +161,7 @@ BISV Hacks.
 
 **🛡️ [Sentinel](https://github.com/1exii/sentinel)**
 
-<!-- TODO: one line on what Sentinel does -- the repo has no description
-     and I didn't want to invent one. -->
+Sentinel is an intelligent danger detection and reporting platform designed to enhance community safety through real-time information sharing. Users can report incidents, view reports on a map, and access safety alerts to stay informed about their surroundings.
 
 `JavaScript`
 
