@@ -230,7 +230,7 @@ project. Where the fundamentals got learned.
   <a href="priyaprabhudgp@gmail.com">
     <img src="https://img.shields.io/badge/Email-05221D?style=for-the-badge&logo=gmail&logoColor=E3C567" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/priyadarshini-prabhu">
+  <a href="linkedin.com/in/priyadarshini-prabhu-0853132b2">
     <img src="https://img.shields.io/badge/LinkedIn-05221D?style=for-the-badge&logo=linkedin&logoColor=E3C567" alt="LinkedIn" />
   </a>
   <a href="https://github.com/priyaprabhudgp">
