@@ -241,8 +241,4 @@ project. Where the fundamentals got learned.
 
 <br />
 
-<div align="center">
-  <i>“The best assistive technology is the kind you stop noticing.”</i>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05221D,45:1F7A68,100:C9A227&height=130&section=footer" width="100%" alt="" />
