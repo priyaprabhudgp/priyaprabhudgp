@@ -1,0 +1,38 @@
+name: Generate contribution snake
+
+# Renders the contribution grid as an animated snake, in the profile's
+# emerald-and-gold palette. Runs on a schedule so it stays current, and the
+# SVG is committed to the `output` branch -- which means the README never
+# depends on a third-party service staying online.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=%23C9A227&color_dots=%23EFEFEA,%23A8CFC4,%232E9B85,%231F7A68,%230B3D34
+            dist/snake-dark.svg?color_snake=%23E3C567&color_dots=%2305221D,%230B3D34,%231F7A68,%232E9B85,%238FC9BB
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
