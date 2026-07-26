@@ -18,7 +18,7 @@
 
 <img src="assets/divider.png" width="100%" alt="" />
 
-## ◆ About
+## 🔸 About
 
 <img align="right" width="190" src="assets/orb.png" alt="" />
 
@@ -36,7 +36,7 @@ Most of my work lives at the seam between **hardware, machine learning, and acce
 
 <img src="assets/divider.png" width="100%" alt="" />
 
-## ◆ Toolkit
+## 🔸 Toolkit
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Most of my work lives at the seam between **hardware, machine learning, and acce
 
 <img src="assets/divider.png" width="100%" alt="" />
 
-## ◆ Selected Work
+## 🔸 Selected Work
 
 <table>
   <tr>
@@ -89,13 +89,22 @@ privacy tradeoff.
   </td>
     <td width="50%" valign="top">
 
-### 🏛️ [CongressionalApp](https://github.com/priyaprabhudgp/CongressionalApp)
+<!-- NOTE: airesx2/mobile-walker is currently PRIVATE (404 to logged-out
+     visitors). Make it public, or drop the link and keep the text. -->
 
-Submission for the Congressional App Challenge — a web application built
-around a civic-impact brief, designed and shipped end-to-end under
-competition deadline.
+### 📱 [mobile-walker](https://github.com/airesx2/mobile-walker)
 
-`JavaScript` `HTML` `CSS`
+**SmartWalker** — the idea above, rebuilt as a native iOS app. RoomPlan
+scans a space into a 2D occupancy grid, A\* plans a route across it, and the
+device speaks turn-by-turn guidance in the user's own language. Includes
+stride calibration and automatic fall detection.
+
+`Swift` `SwiftUI` `ARKit` `RoomPlan` `AVFoundation`
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🍞 [Toasssst](https://github.com/priyaprabhudgp/Toasssst)
 
@@ -105,8 +114,6 @@ structured set of choices.
 `JavaScript`
 
   </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 
 ### 🧊 [CubeWhiz](https://github.com/priyaprabhudgp/CubeWhiz)
@@ -116,23 +123,68 @@ A browser project exploring Rubik's-cube solving and visualization.
 `JavaScript`
 
   </td>
+  </tr>
+</table>
+
+### 🤝 Contributed To
+
+Projects I worked on as part of a team rather than owned outright.
+
+<table>
+  <tr>
     <td width="50%" valign="top">
 
-### ☕ Coursework & Foundations
+**♿ [Accesify](https://github.com/1exii/accessibility-extension)**
 
-`SpringFinal` · `InheritanceLab` · `FallFinalProject` — object-oriented
-Java, inheritance hierarchies, and a monster-fighting game built as a
-final project. Where the fundamentals got learned.
+A browser extension that reshapes pages for readability, so the web works
+for people the default experience leaves behind.
 
-`Java`
+`JavaScript` `Browser Extension`
+
+  </td>
+    <td width="50%" valign="top">
+
+**🩺 [CuringWithCare](https://github.com/airesx2/curing-with-care-WEBAPP)**
+
+A web app built around patient care and health support.
+
+`JavaScript`
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**🧠 [PocketTherapy](https://github.com/1exii/bisvhacks)**
+
+A mental-health companion for naming and working through emotions, built at
+BISV Hacks.
+
+`JavaScript`
+
+  </td>
+    <td width="50%" valign="top">
+
+**🛡️ [Sentinel](https://github.com/1exii/sentinel)**
+
+<!-- TODO: one line on what Sentinel does -- the repo has no description
+     and I didn't want to invent one. -->
+
+`JavaScript`
 
   </td>
   </tr>
 </table>
 
+### ☕ Coursework & Foundations
+
+`SpringFinal` · `InheritanceLab` · `FallFinalProject` — object-oriented Java,
+inheritance hierarchies, and a monster-fighting game built as a final
+project. Where the fundamentals got learned.
+
 <img src="assets/divider.png" width="100%" alt="" />
 
-## ◆ By the Numbers
+## 🔸 By the Numbers
 
 <div align="center">
 
@@ -177,7 +229,7 @@ final project. Where the fundamentals got learned.
 
 <img src="assets/divider.png" width="100%" alt="" />
 
-## ◆ Elsewhere
+## 🔸 Elsewhere
 
 <div align="center">
 

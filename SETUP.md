@@ -38,6 +38,23 @@ In `README.md`, under **Elsewhere**, replace:
 If you'd rather not publish contact details at all, delete those two `<a>`
 blocks — the GitHub link below them stands fine on its own.
 
+### Also still open
+
+| Where | What |
+|---|---|
+| **Selected Work** → mobile-walker | `airesx2/mobile-walker` is **private** — a logged-out visitor gets a 404. Make it public, or delete the link and keep the description text. |
+| **Contributed To** → Sentinel | Needs a one-line description. `1exii/sentinel` has none on GitHub and I didn't want to invent one. |
+
+Link check, run 2026-07-26:
+
+| Repo | Status |
+|---|---|
+| `1exii/accessibility-extension` | public ✓ — you're on the contributor list |
+| `airesx2/curing-with-care-WEBAPP` | public ✓ — you're on the contributor list |
+| `1exii/bisvhacks` | public ✓ — you're on the contributor list |
+| `1exii/sentinel` | public ✓ — but GitHub's contributor list shows only `1exii` and `waterfall83`. Harmless if your commits were under a different email, worth a look if not. |
+| `airesx2/mobile-walker` | **404 / private** |
+
 ---
 
 ## 3. Turn on the contribution snake
