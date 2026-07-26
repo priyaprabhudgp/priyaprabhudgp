@@ -124,13 +124,7 @@ A browser project exploring Rubik's-cube solving and visualization.
 
   </td>
   </tr>
-</table>
 
-### 🤝 Contributed To
-
-Projects I worked on as part of a team rather than owned outright.
-
-<table>
   <tr>
     <td width="50%" valign="top">
 
