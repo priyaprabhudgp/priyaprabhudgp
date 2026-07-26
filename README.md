@@ -227,10 +227,10 @@ project. Where the fundamentals got learned.
 <div align="center">
 
   <!-- TODO: replace the two links below with your real email + LinkedIn, then delete this comment -->
-  <a href="mailto:you@example.com">
+  <a href="priyaprabhudgp@gmail.com">
     <img src="https://img.shields.io/badge/Email-05221D?style=for-the-badge&logo=gmail&logoColor=E3C567" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/your-handle">
+  <a href="https://www.linkedin.com/in/priyadarshini-prabhu">
     <img src="https://img.shields.io/badge/LinkedIn-05221D?style=for-the-badge&logo=linkedin&logoColor=E3C567" alt="LinkedIn" />
   </a>
   <a href="https://github.com/priyaprabhudgp">
