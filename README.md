@@ -114,15 +114,6 @@ structured set of choices.
 `JavaScript`
 
   </td>
-    <td width="50%" valign="top">
-
-### 🧊 [CubeWhiz](https://github.com/priyaprabhudgp/CubeWhiz)
-
-A browser project exploring Rubik's-cube solving and visualization.
-
-`JavaScript`
-
-  </td>
   </tr>
 
   <tr>
@@ -140,7 +131,7 @@ for people the default experience leaves behind.
 
 **🩺 [CuringWithCare](https://github.com/airesx2/curing-with-care-WEBAPP)**
 
-A web app built around patient care and health support.
+A web app built around cancer awareness and support for our school's Curing With Care Chapter.
 
 `JavaScript`
 
