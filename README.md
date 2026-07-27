@@ -71,11 +71,13 @@ Most of my work lives at the seam between **hardware, machine learning, and acce
 
 ## 🔸 Selected Work
 
+### 🚀 Built by me
+
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🦯 [ai-smart-walker](https://github.com/priyaprabhudgp/ai-smart-walker)
+#### 🦯 [ai-smart-walker](https://github.com/priyaprabhudgp/ai-smart-walker)
 
 An assistive navigation system for elderly and low-vision users moving
 through indoor spaces. A Raspberry Pi with a camera and ultrasonic sensors
@@ -92,7 +94,7 @@ privacy tradeoff.
 <!-- NOTE: airesx2/mobile-walker is currently PRIVATE (404 to logged-out
      visitors). Make it public, or drop the link and keep the text. -->
 
-### 📱 [mobile-walker](https://github.com/airesx2/mobile-walker)
+#### 📱 [mobile-walker](https://github.com/airesx2/mobile-walker)
 
 **SmartWalker** — the idea above, rebuilt as a native iOS app. RoomPlan
 scans a space into a 2D occupancy grid, A\* plans a route across it, and the
@@ -104,9 +106,9 @@ stride calibration and automatic fall detection.
   </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
 
-### 🍞 [Toasssst](https://github.com/priyaprabhudgp/Toasssst)
+#### 🍞 [Toasssst](https://github.com/priyaprabhudgp/Toasssst)
 
 A team-built decision-making app that turns group indecision into a
 structured set of choices.
@@ -115,11 +117,17 @@ structured set of choices.
 
   </td>
   </tr>
+</table>
 
+### 🤝 Contributed to
+
+Team projects where I was one of several contributors.
+
+<table>
   <tr>
     <td width="50%" valign="top">
 
-**♿ [Accesify](https://github.com/1exii/accessibility-extension)**
+#### ♿ [Accesify](https://github.com/1exii/accessibility-extension)
 
 A browser extension that reshapes pages for readability, so the web works
 for people the default experience leaves behind.
@@ -129,7 +137,7 @@ for people the default experience leaves behind.
   </td>
     <td width="50%" valign="top">
 
-**🩺 [CuringWithCare](https://github.com/airesx2/curing-with-care-WEBAPP)**
+#### 🩺 [CuringWithCare](https://github.com/airesx2/curing-with-care-WEBAPP)
 
 A web app built around cancer awareness and support for our school's Curing With Care Chapter.
 
@@ -140,7 +148,7 @@ A web app built around cancer awareness and support for our school's Curing With
   <tr>
     <td width="50%" valign="top">
 
-**🧠 [PocketTherapy](https://github.com/1exii/bisvhacks)**
+#### 🧠 [PocketTherapy](https://github.com/1exii/bisvhacks)
 
 A mental-health companion for naming and working through emotions, built at
 BISV Hacks.
@@ -150,7 +158,7 @@ BISV Hacks.
   </td>
     <td width="50%" valign="top">
 
-**🛡️ [Sentinel](https://github.com/1exii/sentinel)**
+#### 🛡️ [Sentinel](https://github.com/1exii/sentinel)
 
 Sentinel is an intelligent danger detection and reporting platform designed to enhance community safety through real-time information sharing. Users can report incidents, view reports on a map, and access safety alerts to stay informed about their surroundings.
 
