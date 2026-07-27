@@ -67,7 +67,7 @@ Interested in Embedded Systems and Computer Engineering, I'm trying to build pro
 
 ## 🔸 Projects 🔸
 
-### ​🇼​​🇴​​🇷​​🇰​/​🇸​​🇨​​🇭​​🇴​​🇴​​🇱​
+### ​🇼​​🇴​​🇷​​🇰​/​🇸​​🇨​​🇭​​🇴​​🇴​​🇱👩🏾‍💻​
 
 <table>
   <tr>
@@ -115,9 +115,8 @@ structured set of choices.
   </tr>
 </table>
 
-### ℍ𝕒𝕔𝕜𝕒𝕥𝕙𝕠𝕟𝕤
+### ℍ𝕒𝕔𝕜𝕒𝕥𝕙𝕠𝕟𝕤 💡
 
-Team projects where I was one of several contributors.
 
 <table>
   <tr>
