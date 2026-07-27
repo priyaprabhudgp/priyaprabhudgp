@@ -187,7 +187,7 @@ project. Where the fundamentals got learned.
     returning DEPLOYMENT_PAUSED. For a permanent fix, deploy your own copy
     to Vercel (see SETUP.md) and swap the hostname below.
   -->
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyaprabhudgp&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&border_radius=10&bg_color=0B3D34&title_color=E3C567&text_color=CFE3DC&icon_color=7FC0B0&border_color=C9A227" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyaprabhudgp&show_icons=true&include_all_commits=true&count_private=true&border_radius=10&bg_color=0B3D34&title_color=E3C567&text_color=CFE3DC&icon_color=7FC0B0&border_color=C9A227" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=priyaprabhudgp&layout=compact&langs_count=8&border_radius=10&bg_color=0B3D34&title_color=E3C567&text_color=CFE3DC&border_color=C9A227" alt="Top languages" />
 
   <!--
