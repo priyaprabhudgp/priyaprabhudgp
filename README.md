@@ -24,7 +24,7 @@
 
 Interested in Embedded Systems and Computer Engineering, I'm trying to build projects that expand the scope of my experience and knowledge. I love building projects, whether it's a semester-long Capstone or a fun Hackathon prototype!
 
-- 🔭 Currently building **SmartWalker** — indoor navigation that talks you to the right room
+- 🔭 Currently building **SmartWalker**
 - 🧠 Working through computer vision, sensor integration, and on-device inference 
 - 🌱 Learning Swift and ARKit, after building basic Python and Java
 
