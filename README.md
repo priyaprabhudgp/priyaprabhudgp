@@ -22,15 +22,11 @@
 
 <img align="right" width="190" src="assets/orb.png" alt="" />
 
-I build software for people whose needs usually get designed around last.
-
-Most of my work lives at the seam between **hardware, machine learning, and accessibility** — cameras and sensors on one side, a person who needs a clear spoken instruction on the other. Getting a model to 95% accuracy is the easy half; making it useful to someone actually walking down a hallway is the part I find worth doing.
+Interested in Embedded Systems and Computer Engineering, I'm trying to build projects that expand the scope of my experience and knowledge. I love building projects, whether it's a semester-long Capstone or a fun Hackathon prototype!
 
 - 🔭 Currently building **SmartWalker** — indoor navigation that talks you to the right room
-- 🧠 Working through computer vision, on-device inference, and the ugly realities of sensor noise
-- 🌱 Learning Swift and ARKit properly, after arriving from Python and Java
-- 🏛️ Congressional App Challenge participant · hackathon regular
-- 💭 Ask me about YOLO on a Raspberry Pi, or why offline speech recognition matters
+- 🧠 Working through computer vision, sensor integration, and on-device inference 
+- 🌱 Learning Swift and ARKit, after building basic Python and Java
 
 <br clear="right" />
 
@@ -69,9 +65,9 @@ Most of my work lives at the seam between **hardware, machine learning, and acce
 
 <img src="assets/divider.png" width="100%" alt="" />
 
-## 🔸 Selected Work
+## 🔸 Projects 🔸
 
-### 🚀 Built by me
+### ​🇼​​🇴​​🇷​​🇰​/​🇸​​🇨​​🇭​​🇴​​🇴​​🇱​
 
 <table>
   <tr>
@@ -119,7 +115,7 @@ structured set of choices.
   </tr>
 </table>
 
-### 🤝 Contributed to
+### ℍ𝕒𝕔𝕜𝕒𝕥𝕙𝕠𝕟𝕤
 
 Team projects where I was one of several contributors.
 
