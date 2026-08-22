@@ -89,17 +89,6 @@ privacy tradeoff.
 
 <!-- NOTE: airesx2/mobile-walker is currently PRIVATE (404 to logged-out
      visitors). Make it public, or drop the link and keep the text. -->
-
-#### 📱 [mobile-walker](https://github.com/airesx2/mobile-walker)
-
-**SmartWalker** — the idea above, rebuilt as a native iOS app. RoomPlan
-scans a space into a 2D occupancy grid, A\* plans a route across it, and the
-device speaks turn-by-turn guidance in the user's own language. Includes
-stride calibration and automatic fall detection.
-
-`Swift` `SwiftUI` `ARKit` `RoomPlan` `AVFoundation`
-
-  </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
